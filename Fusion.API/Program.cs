@@ -1,6 +1,6 @@
 using Fusion.API.Middleware;
 using Fusion.Core.Interfaces;
-using Fusion.Core.Services;
+using Fusion.Infrastructure.Services;
 using Fusion.Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 using Serilog;

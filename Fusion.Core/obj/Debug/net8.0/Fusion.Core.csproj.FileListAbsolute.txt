@@ -1,0 +1,12 @@
+/Users/mac/Documents/Fusion_intelligence_.Net/Fusion.Core/obj/Debug/net8.0/Fusion.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/Fusion_intelligence_.Net/Fusion.Core/obj/Debug/net8.0/Fusion.Core.AssemblyInfoInputs.cache
+/Users/mac/Documents/Fusion_intelligence_.Net/Fusion.Core/obj/Debug/net8.0/Fusion.Core.AssemblyInfo.cs
+/Users/mac/Documents/Fusion_intelligence_.Net/Fusion.Core/obj/Debug/net8.0/Fusion.Core.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/Fusion_intelligence_.Net/Fusion.Core/obj/Debug/net8.0/Fusion.Core.sourcelink.json
+/Users/mac/Documents/Fusion_intelligence_.Net/Fusion.Core/bin/Debug/net8.0/Fusion.Core.deps.json
+/Users/mac/Documents/Fusion_intelligence_.Net/Fusion.Core/bin/Debug/net8.0/Fusion.Core.dll
+/Users/mac/Documents/Fusion_intelligence_.Net/Fusion.Core/bin/Debug/net8.0/Fusion.Core.pdb
+/Users/mac/Documents/Fusion_intelligence_.Net/Fusion.Core/obj/Debug/net8.0/Fusion.Core.dll
+/Users/mac/Documents/Fusion_intelligence_.Net/Fusion.Core/obj/Debug/net8.0/refint/Fusion.Core.dll
+/Users/mac/Documents/Fusion_intelligence_.Net/Fusion.Core/obj/Debug/net8.0/Fusion.Core.pdb
+/Users/mac/Documents/Fusion_intelligence_.Net/Fusion.Core/obj/Debug/net8.0/ref/Fusion.Core.dll

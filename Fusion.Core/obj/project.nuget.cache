@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3mQNC6kjs4k=",
+  "success": true,
+  "projectFilePath": "/Users/mac/Documents/Fusion_intelligence_.Net/Fusion.Core/Fusion.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/microsoft.netcore.app.ref/8.0.25/microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.25/microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

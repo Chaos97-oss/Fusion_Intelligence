@@ -1,7 +1,7 @@
 using Fusion.Core.Entities;
 using Fusion.Core.Enums;
 using Fusion.Core.Exceptions;
-using Fusion.Core.Services;
+using Fusion.Infrastructure.Services;
 using Fusion.Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 using Xunit;
